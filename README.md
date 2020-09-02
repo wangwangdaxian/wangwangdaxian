@@ -7,9 +7,9 @@
 ## Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com//wangwangdaxian/actions/issues/1) in [wangwangdaxian/actions](https://github.com//wangwangdaxian/actions)
-2. ❗️ Closed issue [#76](https://github.com//Jiayi-Liao/blog-project/issues/76) in [Jiayi-Liao/blog-project](https://github.com//Jiayi-Liao/blog-project)
-3. ❗️ Opened issue [#76](https://github.com//Jiayi-Liao/blog-project/issues/76) in [Jiayi-Liao/blog-project](https://github.com//Jiayi-Liao/blog-project)
-4. 🗣 Commented on [#12930](https://github.com//apache/flink/issues/12930) in [apache/flink](https://github.com//apache/flink)
-5. 💪 Opened PR [#12930](https://github.com//apache/flink/pull/12930) in [apache/flink](https://github.com//apache/flink)
+1. ❗️ Closed issue [#1](https://github.com//wangwangdaxian/actions/issues/1) in [wangwangdaxian/actions](https://github.com//wangwangdaxian/actions)
+2. ❗️ Opened issue [#1](https://github.com//wangwangdaxian/actions/issues/1) in [wangwangdaxian/actions](https://github.com//wangwangdaxian/actions)
+3. ❗️ Closed issue [#76](https://github.com//Jiayi-Liao/blog-project/issues/76) in [Jiayi-Liao/blog-project](https://github.com//Jiayi-Liao/blog-project)
+4. ❗️ Opened issue [#76](https://github.com//Jiayi-Liao/blog-project/issues/76) in [Jiayi-Liao/blog-project](https://github.com//Jiayi-Liao/blog-project)
+5. 🗣 Commented on [#12930](https://github.com//apache/flink/issues/12930) in [apache/flink](https://github.com//apache/flink)
 <!--END_SECTION:activity-->
